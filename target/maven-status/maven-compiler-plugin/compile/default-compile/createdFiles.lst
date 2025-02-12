@@ -1,0 +1,7 @@
+co/testsquad/config/FrameworkConfig.class
+co/testsquad/utils/CapabilitiesManager.class
+co/testsquad/core/AppiumServerManager.class
+co/testsquad/pages/LoginPage.class
+co/testsquad/pages/HomePage.class
+co/testsquad/core/DriverManager.class
+co/testsquad/pages/BasePage.class

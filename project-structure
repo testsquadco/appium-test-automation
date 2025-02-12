@@ -1,0 +1,33 @@
+mobile-test-automation/
+├── apps/
+│   ├── android/
+│   │   └── app-debug.apk
+│   └── ios/
+│       └── app.app
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   └── com/
+│   │   │       └── framework/
+│   │   │           ├── config/
+│   │   │           ├── core/
+│   │   │           ├── data/
+│   │   │           ├── exceptions/
+│   │   │           ├── listeners/
+│   │   │           ├── pages/
+│   │   │           ├── reporting/
+│   │   │           └── utils/
+│   │   └── resources/
+│   │       ├── config/
+│   │       └── data/
+│   └── test/
+│       ├── java/
+│       │   └── com/
+│       │       └── framework/
+│       │           ├── runners/
+│       │           ├── steps/
+│       │           └── tests/
+│       └── resources/
+│           ├── features/
+│           └── testdata/
+└── pom.xml 
