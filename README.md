@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://testsquad.co/wp-content/uploads/2022/04/testsquad-opt2-01-scaled-300x71.jpg" width="400"/>
+  <img src="https://staging.testsquad.co/wp-content/uploads/2025/02/testsquad-logo-500-469x100.png" width="400"/>
 </p>
 
 # TestSquad Mobile Automation Framework (Boiler-plate)
