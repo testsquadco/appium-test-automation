@@ -291,6 +291,7 @@ public void userEntersUsername(String username) {
 3. Commit your changes
 4. Push to the branch
 5. Create a Pull Request
+6. Mention TestSquad on LinkedIn :)
 
 ## 🤝 Support
 
